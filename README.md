@@ -4,6 +4,7 @@ do it again, this time as a one-day solo project instead of a paired week-long p
 
 ## Description 
 LinkedList stores website bookmarks that the user supplies through a form. Bookmarks can be deleted or marked as read. 
+[View deployment here](https://joelsmith123.github.io/linkedlist-mod3/)
 
 ## Developer
 * Joel Smith [GitHub](https://github.com/JoelSmith123) [LinkedIn](https://www.linkedin.com/in/joelsmith123/)
