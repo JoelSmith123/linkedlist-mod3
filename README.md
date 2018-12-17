@@ -3,7 +3,7 @@ This was a one-day project where I was to take any project of my choice that I h
 do it again, this time as a one-day solo project instead of a paired week-long project. 
 
 ## Description 
-LinkedList stores website bookmarks that the user supplies with a form. Bookmarks can be deleted or marked as read. 
+LinkedList stores website bookmarks that the user supplies through a form. Bookmarks can be deleted or marked as read. 
 
 ## Developer
 * Joel Smith [GitHub](https://github.com/JoelSmith123) [LinkedIn](https://www.linkedin.com/in/joelsmith123/)
